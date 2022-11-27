@@ -1,7 +1,6 @@
 # 8-Week-SQL-Challange
-<p align="center">
-**Introduction**
-</p>
+
+<h2 align="center">Introduction</h2>
 Did you know that over 115 million kilograms of pizza is consumed daily worldwide??? (Well according to Wikipedia anyway…)
 
 Danny was scrolling through his Instagram feed when something really caught his eye - “80s Retro Styling and Pizza Is The Future!”

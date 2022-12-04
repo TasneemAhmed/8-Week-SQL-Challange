@@ -1,4 +1,4 @@
-<h1 align = 'center'> Introduction </h1>
+<h1 align="center"> Introduction </h1>
 
 Data Mart is Danny’s latest venture and after running international operations for his online supermarket that specialises in fresh produce - Danny is asking for your support to analyse his sales performance.
 
@@ -13,7 +13,7 @@ Which platform, region, segment and customer types were the most impacted by thi
 What can we do about future introduction of similar sustainability updates to the business to minimise impact on sales?
 
 
-<h2 align = 'center'> Available Data </h2>
+<h2 align="center"> Available Data </h2>
 For this case study there is only a single table: data_mart.weekly_sales
 
 The Entity Relationship Diagram is shown below with the data types made clear, please note that there is only this one table - hence why it looks a little bit lonely!

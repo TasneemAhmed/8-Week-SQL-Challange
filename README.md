@@ -19,7 +19,7 @@ All datasets exist within the pizza_runner database schema - be sure to include 
 
 <h2 align="center"> Entity Relationship Diagram </h2>
 
-<h2> Case Study #5 : Data Mart </h2>
+<h2 align="center"> Case Study #5 : Data Mart </h2>
 
 ![image](https://user-images.githubusercontent.com/49993791/205490900-a5b813cf-ff66-4737-9fcb-6788db493512.png)
 

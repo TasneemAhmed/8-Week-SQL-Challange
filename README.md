@@ -45,9 +45,9 @@ The Entity Relationship Diagram is shown below with the data types made clear, p
 <h2 align="center"> Column Dictionary </h2>
 The columns are pretty self-explanatory based on the column names but here are some further details about the dataset:
 
-Data Mart has international operations using a multi-region strategy
-Data Mart has both, a retail and online platform in the form of a Shopify store front to serve their customers
-Customer segment and customer_type data relates to personal age and demographics information that is shared with Data Mart
-transactions is the count of unique purchases made through Data Mart and sales is the actual dollar amount of purchases
-Each record in the dataset is related to a specific aggregated slice of the underlying sales data rolled up into a week_date value which represents the start of the sales week.
+1. Data Mart has international operations using a multi-region strategy
+2. Data Mart has both, a retail and online platform in the form of a Shopify store front to serve their customers
+3. Customer segment and customer_type data relates to personal age and demographics information that is shared with Data Mart
+4. transactions is the count of unique purchases made through Data Mart and sales is the actual dollar amount of purchases
+5. Each record in the dataset is related to a specific aggregated slice of the underlying sales data rolled up into a week_date value which represents the start of the sales week.
 

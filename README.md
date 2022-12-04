@@ -20,6 +20,9 @@ All datasets exist within the pizza_runner database schema - be sure to include 
 <h2 align="center"> Entity Relationship Diagram </h2>
 
 <h2> Case Study #5 : Data Mart </h2>
+
+![image](https://user-images.githubusercontent.com/49993791/205490900-a5b813cf-ff66-4737-9fcb-6788db493512.png)
+
 <h2 align="center">Introduction</h2>
 
 Data Mart is Danny’s latest venture and after running international operations for his online supermarket that specialises in fresh produce - Danny is asking for your support to analyse his sales performance.
@@ -50,4 +53,6 @@ The columns are pretty self-explanatory based on the column names but here are s
 3. Customer segment and customer_type data relates to personal age and demographics information that is shared with Data Mart
 4. transactions is the count of unique purchases made through Data Mart and sales is the actual dollar amount of purchases
 5. Each record in the dataset is related to a specific aggregated slice of the underlying sales data rolled up into a week_date value which represents the start of the sales week.
+
+Please find the full Case study here: https://8weeksqlchallenge.com/case-study-5/
 

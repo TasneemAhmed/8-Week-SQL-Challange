@@ -1,3 +1,7 @@
+/*To show the below query in Google BigQuery:
+https://console.cloud.google.com/bigquery?sq=640351986204:6f685731af7b473698403dfffc57cf94
+*/
+
 select cast(week_date as date) as week_date,     /* Convert the week_date to a DATE format */  
 extract(month from week_date) as month_number,  /* Extract month_number from each week_date */
 extract(year from week_date) as calendar_year,  /* Extract calander_year from each week_date */

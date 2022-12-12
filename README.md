@@ -23,8 +23,7 @@ All datasets exist within the pizza_runner database schema - be sure to include 
 
 <h2 align="center"> Entity Relationship Diagram </h2>
 
-![image](https://user-images.githubusercontent.com/49993791/207046643-67604534-93ae-424e-8582-9439ac8aa69c.png)
-
+![image](https://user-images.githubusercontent.com/49993791/207047110-9ff6d92e-5f4b-43ff-a252-100885e0aabb.png)
 
 please find full case Study from here: https://8weeksqlchallenge.com/case-study-2/
 

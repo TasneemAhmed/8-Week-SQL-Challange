@@ -54,5 +54,10 @@ The columns are pretty self-explanatory based on the column names but here are s
 4. transactions is the count of unique purchases made through Data Mart and sales is the actual dollar amount of purchases
 5. Each record in the dataset is related to a specific aggregated slice of the underlying sales data rolled up into a week_date value which represents the start of the sales week.
 
+<h2 align="center"> Conclusion </h2>
+This case study actually is based off a real life change in Australia retailers where plastic bags were no longer provided for free - as you can expect, some customers would have changed their shopping behaviour because of this change!
+
+Analysis which is related to certain key events which can have a significant impact on sales or engagement metrics is always a part of the data analytics menu. Learning how to approach these types of problems is a super valuable lesson and hopefully these ideas can help you next time you’re faced with a tough problem like this in the workplace!
+
 Please find the full Case study here: https://8weeksqlchallenge.com/case-study-5/
 
